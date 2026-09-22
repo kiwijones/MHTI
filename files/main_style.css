@@ -290,3 +290,94 @@ img[src*="fb-flogo-blue-broadcast-2.png"] {
  width: 32px !important;
  height: 32px !important;
 }
+
+/* Make the Irish Mines directory easier to scan and navigate. */
+.wsite-page-irish-mines .mine-county-index {
+ display: grid;
+ grid-template-columns: repeat(auto-fit, minmax(135px, 1fr));
+ gap: 8px;
+ margin: 24px 0 40px;
+ padding: 20px;
+ background: #f4f7f3;
+ border: 1px solid #d8e0d4;
+ border-radius: 4px;
+}
+
+.wsite-page-irish-mines .mine-county-index a {
+ display: block;
+ padding: 9px 12px;
+ background: #fff;
+ border: 1px solid #dfe5dc;
+ border-radius: 3px;
+ color: #42514c !important;
+ line-height: 1.25;
+ text-decoration: none;
+}
+
+.wsite-page-irish-mines .mine-county-index a:hover,
+.wsite-page-irish-mines .mine-county-index a:focus {
+ background: #508d24;
+ border-color: #508d24;
+ color: #fff !important;
+}
+
+.wsite-page-irish-mines #wsite-content .wsite-section-elements > h2.wsite-content-title:not(:first-child) {
+ margin: 46px 0 18px !important;
+ padding: 10px 14px;
+ background: #f4f7f3;
+ border-left: 5px solid #508d24;
+ text-align: left !important;
+ scroll-margin-top: 20px;
+}
+
+.wsite-page-irish-mines .wsite-multicol-table {
+ border-collapse: separate;
+ border-spacing: 10px 0;
+}
+
+.wsite-page-irish-mines .wsite-multicol-col {
+ padding: 14px 16px !important;
+ background: #fafbf9;
+ border-top: 1px solid #dfe5dc;
+ vertical-align: top;
+}
+
+.wsite-page-irish-mines .wsite-multicol-col .paragraph {
+ line-height: 1.75 !important;
+}
+
+@media screen and (max-width: 767px) {
+ .wsite-page-irish-mines .mine-county-index {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 6px;
+  margin-bottom: 30px;
+  padding: 12px;
+ }
+
+ .wsite-page-irish-mines .mine-county-index a {
+  padding: 10px;
+ }
+
+ .wsite-page-irish-mines #wsite-content .wsite-section-elements > h2.wsite-content-title:not(:first-child) {
+  margin-top: 32px !important;
+ }
+
+ .wsite-page-irish-mines .wsite-multicol-table,
+ .wsite-page-irish-mines .wsite-multicol-tbody,
+ .wsite-page-irish-mines .wsite-multicol-tr,
+ .wsite-page-irish-mines .wsite-multicol-col {
+  display: block !important;
+  width: 100% !important;
+ }
+
+ .wsite-page-irish-mines .wsite-multicol-table {
+  border-spacing: 0;
+ }
+
+ .wsite-page-irish-mines .wsite-multicol-col {
+  box-sizing: border-box;
+  padding: 8px 12px !important;
+  border-top: 0;
+  border-bottom: 1px solid #e6eae4;
+ }
+}
