@@ -1,0 +1,122 @@
+[
+  {
+    "id": 5,
+    "county": "Clare",
+    "Position": { "Latitude": 52.9, "Longitude": -9.0 },
+    "Data": {
+      "status": "review",
+      "source": "Recovered Irish Mines directory and OpenStreetMap Nominatim",
+      "note": "Coordinates marked candidate-locality or candidate-landmark are provisional area positions and must not be treated as precise mine entrances."
+    },
+    "location": [
+      {
+        "Mine": "Ballyhickey",
+        "url": "ballyhickey-co-clare.html",
+        "sites": [],
+        "Position": { "Latitude": 52.8364031, "Longitude": -8.8591518 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Ballyhickey" }
+      },
+      {
+        "Mine": "Ballyvergin/Ballybergin",
+        "url": "ballyverginballybergin-co-clare.html",
+        "sites": [],
+        "Position": { "Latitude": 52.8792964, "Longitude": -8.8557036 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Ballyvergin" }
+      },
+      {
+        "Mine": "Ballyhurly",
+        "url": "ballyhurly-co-clare.html",
+        "sites": [],
+        "Position": { "Latitude": 52.8900022, "Longitude": -8.459461 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Ballyhurly" }
+      },
+      {
+        "Mine": "Carrahan/Carrohan",
+        "url": "carrahan-co-clare.html",
+        "sites": [],
+        "Position": { "Latitude": 52.8744392, "Longitude": -8.8476224 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Carrahan" }
+      },
+      {
+        "Mine": "Carrownakilly",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": null, "Longitude": null },
+        "Data": {
+          "coordinateStatus": "ambiguous",
+          "candidates": [
+            { "name": "Carrownakilly, Newmarket ED", "Latitude": 52.7687506, "Longitude": -8.8782502 },
+            { "name": "Carrownakilly, Carrowbaun ED", "Latitude": 52.8412605, "Longitude": -8.5130627 }
+          ]
+        }
+      },
+      {
+        "Mine": "Castletown Mines",
+        "url": "castletown-co-clare.html",
+        "sites": [
+          { "minesite": "Caseltown", "url": "" },
+          { "minesite": "Moyriesk", "url": "moyriesk-co-clare.html" }
+        ],
+        "Position": { "Latitude": null, "Longitude": null },
+        "Data": {
+          "coordinateStatus": "ambiguous",
+          "candidates": [
+            { "name": "Castletown, Doora ED", "Latitude": 52.8466924, "Longitude": -8.91744 },
+            { "name": "Castletown, Castletown ED", "Latitude": 53.0280601, "Longitude": -9.0686155 }
+          ]
+        }
+      },
+      {
+        "Mine": "Doolin",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": 53.0163287, "Longitude": -9.3776097 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Doolin" }
+      },
+      {
+        "Mine": "Kilbricken/Monamoe",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": null, "Longitude": null },
+        "Data": { "coordinateStatus": "not-found" }
+      },
+      {
+        "Mine": "Knockaphreaghaun (Crow Hill)",
+        "url": "knockaphreaghun-co-clare.html",
+        "sites": [],
+        "Position": { "Latitude": 52.8677114, "Longitude": -8.8416426 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Knockaphreaghaun" }
+      },
+      {
+        "Mine": "Noughaval",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": null, "Longitude": null },
+        "Data": {
+          "coordinateStatus": "ambiguous",
+          "candidates": [
+            { "name": "Noughaval, West Clare", "Latitude": 53.0159192, "Longitude": -9.1820169 },
+            { "name": "Noughaval, Doora ED", "Latitude": 52.8319485, "Longitude": -8.9154665 }
+          ]
+        }
+      },
+      {
+        "Mine": "Spancill Hill/ Spancel Hill",
+        "url": "spancil-hill-co-clare.html",
+        "sites": [],
+        "Position": { "Latitude": 52.8696045, "Longitude": -8.8994646 },
+        "Data": { "coordinateStatus": "candidate-landmark", "matchedName": "Cross of Spancilhill" }
+      },
+      {
+        "Mine": "Slieve Aughty Mines",
+        "url": "",
+        "sites": [
+          { "minesite": "Ballymalone Mine", "url": "" },
+          { "minesite": "Glendree Mine", "url": "" }
+        ],
+        "Position": { "Latitude": null, "Longitude": null },
+        "Data": { "coordinateStatus": "not-found" }
+      }
+    ]
+  }
+]

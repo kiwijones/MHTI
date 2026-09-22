@@ -1,0 +1,49 @@
+[
+  {
+    "id": 8,
+    "county": "Derry / Londonderry",
+    "Position": { "Latitude": 54.9, "Longitude": -6.9 },
+    "Data": {
+      "status": "review",
+      "source": "Recovered Irish Mines directory and OpenStreetMap Nominatim",
+      "note": "Coordinates marked candidate-locality or candidate-landmark are provisional area positions and must not be treated as precise mine entrances."
+    },
+    "location": [
+      {
+        "Mine": "Ballylaggin/Ballylagan",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": 55.0691683, "Longitude": -6.6101759 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Ballylagan" }
+      },
+      {
+        "Mine": "Cullion",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": 54.7572958, "Longitude": -6.7391637 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Cullion, County Londonderry" }
+      },
+      {
+        "Mine": "Derrynoid",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": null, "Longitude": null },
+        "Data": { "coordinateStatus": "not-found" }
+      },
+      {
+        "Mine": "Islandmore",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": null, "Longitude": null },
+        "Data": { "coordinateStatus": "not-found" }
+      },
+      {
+        "Mine": "Slieve Gallion",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": 54.7318144, "Longitude": -6.7612667 },
+        "Data": { "coordinateStatus": "candidate-landmark", "matchedName": "Slieve Gallion peak" }
+      }
+    ]
+  }
+]
