@@ -403,6 +403,11 @@ img[src*="fb-flogo-blue-broadcast-2.png"] {
   border-spacing: 0;
  }
 
+ .wsite-page-irish-mines .wsite-multicol-table-wrap {
+  margin-right: 0 !important;
+  margin-left: 0 !important;
+ }
+
  .wsite-page-irish-mines .wsite-multicol-col {
   box-sizing: border-box;
   padding: 8px 12px !important;
