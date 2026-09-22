@@ -1,0 +1,284 @@
+[
+  {
+    "id": 7,
+    "county": "Donegal",
+    "Position": {
+      "Latitude": 54.95,
+      "Longitude": -8.11
+    },
+    "Data": {
+      "status": "review",
+      "source": "Recovered Irish Mines directory and OpenStreetMap Nominatim",
+      "note": "Coordinates marked candidate-locality are locality or townland centres and must be verified before being treated as mine positions."
+    },
+    "location": [
+      {
+        "Mine": "Abbey Island",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": 54.5100539, "Longitude": -8.1957522 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Abbey Island" }
+      },
+      {
+        "Mine": "Abbeylands",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": 54.5130054, "Longitude": -8.2045846 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Abbeylands" }
+      },
+      {
+        "Mine": "Ardaturr",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": 54.989144, "Longitude": -7.93759 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Ardaturr" }
+      },
+      {
+        "Mine": "Ards",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": null, "Longitude": null },
+        "Data": {
+          "coordinateStatus": "ambiguous",
+          "candidates": [
+            { "name": "Ards", "Latitude": 55.159635, "Longitude": -7.872447 },
+            { "name": "Ards Big", "Latitude": 55.021667, "Longitude": -7.683333 }
+          ]
+        }
+      },
+      {
+        "Mine": "Ballymagrorty",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": 54.5537835, "Longitude": -8.0540969 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Ballymagrorty" }
+      },
+      {
+        "Mine": "Carrick naHorna",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": null, "Longitude": null },
+        "Data": { "coordinateStatus": "not-found" }
+      },
+      {
+        "Mine": "Carrickatimpan Talc Mine",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": 54.9683659, "Longitude": -8.0595629 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Carrickatimpan" }
+      },
+      {
+        "Mine": "Carrowmore/ Glentogher Mine",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": null, "Longitude": null },
+        "Data": {
+          "coordinateStatus": "ambiguous",
+          "candidates": [
+            { "name": "Carrowmore, Malin ED", "Latitude": 55.3101314, "Longitude": -7.2565107 },
+            { "name": "Carrowmore, Gleneely ED", "Latitude": 55.2474233, "Longitude": -7.2030701 }
+          ]
+        }
+      },
+      {
+        "Mine": "Carrowtrasna Talc Mine",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": null, "Longitude": null },
+        "Data": {
+          "coordinateStatus": "ambiguous",
+          "candidates": [
+            { "name": "Carrowtrasna, Greencastle ED", "Latitude": 55.2352877, "Longitude": -6.9592797 },
+            { "name": "Carrowtrasna, Gartan ED", "Latitude": 55.0175143, "Longitude": -7.8993535 }
+          ]
+        }
+      },
+      {
+        "Mine": "Cashelard Feldspar Quarry",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": 54.5205445, "Longitude": -8.082464 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Cashelard" }
+      },
+      {
+        "Mine": "Crohy Head Talc Mine",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": 54.9230133, "Longitude": -8.4569076 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Crohy" }
+      },
+      {
+        "Mine": "Drumnacross",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": null, "Longitude": null },
+        "Data": {
+          "coordinateStatus": "ambiguous",
+          "candidates": [
+            { "name": "Drumnacross, Ardara ED", "Latitude": 54.7685739, "Longitude": -8.3246516 },
+            { "name": "Drumnacross, Lettermore ED", "Latitude": 54.8599659, "Longitude": -7.7609347 },
+            { "name": "Drumnacross, Desertegny ED", "Latitude": 55.2107713, "Longitude": -7.4863068 }
+          ]
+        }
+      },
+      {
+        "Mine": "Drumreen / Carrickart",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": 55.1572536, "Longitude": -7.7858427 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Drumreen, Carrickart ED" }
+      },
+      {
+        "Mine": "Eighterross/ Castlegrove",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": 54.9889618, "Longitude": -7.6456457 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Eighterross" }
+      },
+      {
+        "Mine": "Finner",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": null, "Longitude": null },
+        "Data": {
+          "coordinateStatus": "ambiguous",
+          "candidates": [
+            { "name": "Finner, Bundoran Rural ED", "Latitude": 54.4934136, "Longitude": -8.2450934 },
+            { "name": "Finner, Bundoran Urban ED", "Latitude": 54.4866739, "Longitude": -8.2737607 },
+            { "name": "Finner, Ballyshannon Rural ED", "Latitude": 54.5290697, "Longitude": -8.2268451 }
+          ]
+        }
+      },
+      {
+        "Mine": "Glenaboghil",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": 54.8877669, "Longitude": -8.113591 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Glenaboghil" }
+      },
+      {
+        "Mine": "Glentown Slate Quarry",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": null, "Longitude": null },
+        "Data": {
+          "coordinateStatus": "ambiguous",
+          "candidates": [
+            { "name": "Glentown, Treantaghmucklagh ED", "Latitude": 54.9363929, "Longitude": -7.5096602 },
+            { "name": "Glentown, Kincraigy ED", "Latitude": 54.9279512, "Longitude": -7.6091185 },
+            { "name": "Glentown, Figart ED", "Latitude": 54.888297, "Longitude": -7.5854466 }
+          ]
+        }
+      },
+      {
+        "Mine": "Inishkeel (lead mine)",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": null, "Longitude": null },
+        "Data": {
+          "coordinateStatus": "ambiguous",
+          "candidates": [
+            { "name": "Inishkeel islet", "Latitude": 54.8476833, "Longitude": -8.4556596 },
+            { "name": "Inishkeel civil parish", "Latitude": 54.8366405, "Longitude": -8.2062936 }
+          ]
+        }
+      },
+      {
+        "Mine": "Iniskill (Inniskill talc Mine)",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": null, "Longitude": null },
+        "Data": { "coordinateStatus": "not-found" }
+      },
+      {
+        "Mine": "Keeldrum",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": 54.6677587, "Longitude": -8.0708004 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Keeldrum" }
+      },
+      {
+        "Mine": "Kilrean",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": null, "Longitude": null },
+        "Data": {
+          "coordinateStatus": "ambiguous",
+          "candidates": [
+            { "name": "Kilrean Upper, Ardara ED", "Latitude": 54.781109, "Longitude": -8.3200694 },
+            { "name": "Kilrean, An Clochán", "Latitude": 54.8334153, "Longitude": -7.9631315 }
+          ]
+        }
+      },
+      {
+        "Mine": "Loughagannon / Knockybrin",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": 54.9957402, "Longitude": -7.6949973 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Loughagannon" }
+      },
+      {
+        "Mine": "Malinbeg",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": 54.6684158, "Longitude": -8.7817659 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Málainn Bhig" }
+      },
+      {
+        "Mine": "Marfagh",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": 55.1885244, "Longitude": -8.0171929 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Marfagh" }
+      },
+      {
+        "Mine": "Mountcharles Sandstone Mines/ Drumkeelan",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": 54.646389, "Longitude": -8.195556 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Mountcharles" }
+      },
+      {
+        "Mine": "Muckish Sand Quarry",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": 55.1056671, "Longitude": -7.9937393 },
+        "Data": { "coordinateStatus": "candidate-landmark", "matchedName": "Muckish peak" }
+      },
+      {
+        "Mine": "Mullantiboyle",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": 54.7902034, "Longitude": -8.2965496 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Mullantiboyle" }
+      },
+      {
+        "Mine": "Sudley Mine / Mullanalamphry",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": null, "Longitude": null },
+        "Data": { "coordinateStatus": "not-found" }
+      },
+      {
+        "Mine": "Tonregee",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": null, "Longitude": null },
+        "Data": {
+          "coordinateStatus": "ambiguous",
+          "candidates": [
+            { "name": "Tonregee, Inver ED", "Latitude": 54.649216, "Longitude": -8.3324874 },
+            { "name": "Tonregee, Ballyshannon Rural ED", "Latitude": 54.5168703, "Longitude": -8.2115478 }
+          ]
+        }
+      },
+      {
+        "Mine": "Welchtown",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": 54.818611, "Longitude": -7.870833 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Welchtown" }
+      }
+    ]
+  }
+]
