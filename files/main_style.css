@@ -292,6 +292,53 @@ img[src*="fb-flogo-blue-broadcast-2.png"] {
 }
 
 /* Make the Irish Mines directory easier to scan and navigate. */
+.wsite-page-irish-mines .mines-map-callout {
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ gap: 20px;
+ margin: 0 0 18px;
+ padding: 16px 18px;
+ background: #42514c;
+ border-radius: 4px;
+ color: #fff;
+}
+
+.wsite-page-irish-mines .mines-map-callout strong,
+.wsite-page-irish-mines .mines-map-callout span {
+ display: block;
+}
+
+.wsite-page-irish-mines .mines-map-callout strong {
+ margin-bottom: 3px;
+ font-family: "Playfair Display", Georgia, serif;
+ font-size: 20px;
+ font-weight: 400;
+}
+
+.wsite-page-irish-mines .mines-map-callout span {
+ color: #e7ece5;
+ font-size: 14px;
+}
+
+.wsite-page-irish-mines .mines-map-callout a {
+ flex: 0 0 auto;
+ padding: 10px 14px;
+ background: #fff;
+ border-radius: 3px;
+ color: #42514c !important;
+ font-family: Montserrat, sans-serif;
+ font-size: 11px;
+ letter-spacing: .5px;
+ text-decoration: none;
+ text-transform: uppercase;
+}
+
+.wsite-page-irish-mines .mines-map-callout a:hover,
+.wsite-page-irish-mines .mines-map-callout a:focus {
+ background: #dff0d4;
+}
+
 .wsite-page-irish-mines .mine-county-index {
  display: grid;
  grid-template-columns: repeat(auto-fit, minmax(135px, 1fr));
@@ -376,6 +423,15 @@ img[src*="fb-flogo-blue-broadcast-2.png"] {
 }
 
 @media screen and (max-width: 767px) {
+ .wsite-page-irish-mines .mines-map-callout {
+  align-items: stretch;
+  flex-direction: column;
+ }
+
+ .wsite-page-irish-mines .mines-map-callout a {
+  text-align: center;
+ }
+
  .wsite-page-irish-mines .mine-county-index {
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 6px;

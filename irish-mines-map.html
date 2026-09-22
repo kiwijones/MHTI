@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Irish Mines Map - MHTI</title>
+  <meta name="description" content="Explore historic mine locations recorded by the Mining Heritage Trust of Ireland.">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Gentium+Basic:400,700|Playfair+Display:400,700|Montserrat:400,700&subset=latin,latin-ext">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+  <link rel="stylesheet" href="files/mines-map.css">
+</head>
+<body>
+  <header class="map-site-header">
+    <a class="map-brand" href="index.html">MHTI</a>
+    <nav aria-label="Main navigation">
+      <a href="index.html">MHTI</a>
+      <a href="irish-mines.html">Irish Mines</a>
+      <a class="active" href="irish-mines-map.html" aria-current="page">Map</a>
+      <a href="about-mhti.html">About MHTI</a>
+      <a href="publications.html">Publications</a>
+      <a href="projects.html">Projects</a>
+      <a href="resources.html">Resources</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="map-intro">
+      <p class="eyebrow">Mining Heritage Trust of Ireland</p>
+      <h1>Irish Mines Map</h1>
+      <p>Explore historic mines and mineral workings from the recovered MHTI catalogue. Map positions are indicative and the directory remains a work in progress.</p>
+    </section>
+
+    <section class="map-toolbar" aria-label="Map filters">
+      <label class="map-search">
+        <span>Search mines</span>
+        <input id="mine-search" type="search" placeholder="Mine, site or county" autocomplete="off">
+      </label>
+      <label>
+        <span>County</span>
+        <select id="county-filter">
+          <option value="">All counties</option>
+        </select>
+      </label>
+      <label class="map-check">
+        <input id="include-unmapped" type="checkbox">
+        <span>Include records not yet mapped</span>
+      </label>
+      <button id="reset-map" type="button">Reset</button>
+    </section>
+
+    <div id="map-status" class="map-status" role="status" aria-live="polite">Loading mine locations…</div>
+
+    <section class="map-workspace">
+      <div id="mines-map" aria-label="Interactive map of Irish mine locations"></div>
+      <aside class="map-results" aria-label="Mine search results">
+        <div class="results-heading">
+          <h2>Locations</h2>
+          <span id="result-count"></span>
+        </div>
+        <div id="mine-results" class="mine-results"></div>
+      </aside>
+    </section>
+
+    <p class="map-note">The recovered dataset currently contains coordinates for only part of the catalogue. Please treat marker positions as a research aid rather than precise site-access guidance. Always respect land ownership, safety restrictions and protected sites.</p>
+  </main>
+
+  <footer>
+    <a href="irish-mines.html">Return to the Irish Mines directory</a>
+    <p>© MHTI. Map data © OpenStreetMap contributors.</p>
+  </footer>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="files/mines-map.js"></script>
+</body>
+</html>
