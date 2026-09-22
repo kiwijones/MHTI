@@ -1,0 +1,3683 @@
+[
+  {
+    "id": 1,
+    "county": "Antrim",
+    "Position": {
+      "Latitude": 54.71936892392373,
+      "Longitude": -6.2067443834984335
+    },
+    "location": [
+      {
+        "Mine": "Agnew's Hill/Shane’s Hill ",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": 54.8449018028659,
+          "Longitude": -5.932427670737825
+        },
+        "Data": {}
+
+      },
+      {
+        "Mine": "Ardclinis/ Ardshins",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Ballyboley",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": 54.85666131718606,
+          "Longitude": -5.850676651655722
+        }
+      },
+      {
+        "Mine": "Ballycastle",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": 55.208147165367926,
+
+          "Longitude": -6.240974582915556
+        }
+      },
+      {
+        "Mine": "Ballycloghan",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": 54.91951731605315,
+
+          "Longitude": -6.220889277904339
+        }
+      },
+      {
+        "Mine": "Ballycraig",
+        "url": "",
+        "sites": [],
+        "Position": {
+
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Ballylig",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": 54.914605155621906,
+
+          "Longitude": -6.163408133632645
+        }
+      },
+      {
+        "Mine": "Ballyboley",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Ballymartin/ Ballypalady",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Ballypalady",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Barard",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Burleigh",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Broughshane",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": 54.89239619039353,
+
+          "Longitude": -6.210896021526086
+        }
+      },
+      {
+        "Mine": "Cargan",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": 54.994533625279516,
+
+          "Longitude": -6.181590362231169
+        }
+      },
+      {
+        "Mine": "Ballycoos",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Ballygalley Hill",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": 54.893471024545235,
+
+          "Longitude": -5.858979930853304
+        }
+      },
+      {
+        "Mine": "Ballymagarry",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Belfast Stone Works",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Brockley, Rathlin Island",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": 55.30294294115509,
+
+          "Longitude": -6.239482424384539
+        }
+      },
+      {
+        "Mine": "Carlaough/ Carnlough",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": 54.990022059371135,
+
+          "Longitude": -6.000590410932595
+        }
+      },
+      {
+        "Mine": "Carrickmore iron mine",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": 55.215673775617276,
+
+          "Longitude": -6.160147172625913
+        }
+      },
+      {
+        "Mine": "Clegnagh",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Clontrace",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Clough",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": 54.96698805784931,
+
+          "Longitude": -6.289484271835292
+        }
+      },
+      {
+        "Mine": "Clogheor/ Cloghcor",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Coree/ Coreen",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Ballyboley",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Craigahullia/ Craigahulliar",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Cromellin/  Crommelin",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Downshire",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Duncrue",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Duneany",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Dungonnel ",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": 54.9892459818667,
+
+          "Longitude": -6.13662026462505
+        }
+      },
+      {
+        "Mine": "Dunluce ",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Elginny ",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Essathackan/ Essathohan",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Evishacrow ",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Fair Green Hill ",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "​Duncrue, Carrickfergus ",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Glenariff",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Glenarm",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Glenravel",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Glentask",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Gortnageeragh",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Irish Hill and Straid/ Ballynure",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Island Magee",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Kilwaughter",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Kilroot",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": 54.72894651458743,
+
+          "Longitude": -5.750052023212611
+        },
+        "Links": [
+          {
+            "url": "https://irishsaltmining.com/"
+          }
+        ]
+      },
+      {
+        "Mine": "Knockboy ",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Larne",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Lemeneagh/ Limineagh/Lemnagh",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Libert/ Libbert",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Lyle Hill",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Maiden Mount",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Mains",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Mount Cashel",
+        "url": "",
+        "sites": [
+          {
+            "minesite": "Evishnablay",
+            "url": ""
+          },
+          {
+            "minesite": "Gortnageeragh",
+            "url": ""
+          }
+        ],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+
+        }
+
+      },
+
+      {
+        "Mine": "Glebe",
+        "url": "",
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "county": "Armagh",
+    "Position": {
+      "Latitude": 54.35016986216769,
+      "Longitude": -6.652067223017888
+    },
+    "location": [
+      {
+        "Mine": "Aughnagurgan",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.191127532672894,
+
+          "Longitude": -6.649914405228719
+        }
+      },
+      {
+        "Mine": "Ballymore Mines, Pointzpass",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.296842351818974,
+
+          "Longitude": -6.373302658372938
+        }
+      },
+      {
+        "Mine": "Clay, Keady",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.24701245196167,
+
+          "Longitude": -6.731355304978195
+        }
+      },
+      {
+        "Mine": "College Mine",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Cragganduff/ Cregganduff",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.10682340079501,
+
+          "Longitude": -6.570046098912942
+        }
+      },
+      {
+        "Mine": "Derrynoose",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.238159077063955,
+
+          "Longitude": -6.794610038478049
+        }
+      },
+      {
+        "Mine": "Tullydonnel",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Drummeland/ Derrynoose",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.23751306069603,
+
+          "Longitude": -6.794850550704962
+        }
+      },
+      {
+        "Mine": "Drumnahoney Mines",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [
+          {
+            "minesite": "Carrickgallogly",
+            "url": ""
+          },
+          {
+            "minesite": "Drumnahoney",
+            "url": ""
+          }
+        ],
+        "Position": {
+          "Latitude": 54.2041996726816,
+
+          "Longitude": -6.5078062770967335
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "county": "Carlow",
+    "Position": {
+      "Latitude": 52.760351537222284,
+
+      "Longitude": -6.850937800016827
+    },
+    "location": [
+      {
+        "Mine": "Bannagogle Quarry",
+        "url": "",
+        "images": [],
+        "sites": [],
+        "Position": {
+          "Latitude": 0,
+          "Longitude": 0
+        }
+      },
+      {
+        "Mine": "Kilcarry",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.69958921435222,
+          "Longitude": -6.669197153252844
+        }
+      }
+
+    ]
+  },
+  {
+    "id": 9,
+    "county": "Down",
+    "Position": {
+      "Latitude": 54.21258549779405,
+
+      "Longitude": -6.047613637808763
+    },
+    "location": [
+      {
+        "Mine": "Carr’s Face Quarry",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Castleward",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Conlig-Whitespots Mine/ Newtownards",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.61425335252126,
+
+          "Longitude": -5.681008405959644,
+          "Exact": 1
+
+        }
+      },
+      {
+        "Mine": "Deehomid/ Deehommed",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Fofanny",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.188514349435344,
+
+          "Longitude": -6.036474301646619
+        }
+      },
+      {
+        "Mine": "Killough",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.25783153646952,
+
+
+          "Longitude": -5.649071468095666
+        }
+      },
+      {
+        "Mine": "Mourne Mountains",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.15768263109238,
+
+          "Longitude": -6.041050632839682
+        }
+      },
+      {
+        "Mine": "Rathmullan",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+
+
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Shague Hill/ Dundrum",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.26348799501391,
+          "Longitude": -5.8448088547616885
+        }
+      },
+      {
+        "Mine": "Tullyratty",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+
+
+          "Longitude": null
+        }
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "county": "Dublin",
+    "Position": {
+      "Latitude": 53.423632735364144,
+
+      "Longitude": -6.29465057286756
+    },
+    "location": [
+      {
+        "Mine": "Ballycorus Mines",
+        "url": "ballycorus-mines-co-dublin.html",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.22489169768578,
+
+          "Longitude": -6.165103156875841,
+          "Exact": 2
+        },
+        "MineData": {
+
+          "Resource": "Lead, Sliver",
+          "Publications": [
+            {
+              "Title": "Cole Memoir Ballycorus",
+              "url": "Cole Memoir Ballycorus.pdf"
+            },
+
+            {
+              "Title": "Cole Memoir Baronstown, Derrynea Cashla Bay, Rinville, Rinville West, Oranmore",
+              "url": "Cole Memoir Baronstown, Derrynea Cashla Bay, Rinville, Rinville West, Oranmore.pdf"
+            }
+
+
+          ],
+          "Journals": [
+            {
+              "title": "A Bibliography by County of Writings on Irish Mines. Cowman, D. (2009).pdf",
+              "url":  ""
+            }
+
+
+          ]
+
+        }
+
+      },
+      {
+        "Mine": "Castleknock",
+        "url": "castleknock-co-dublin.html",
+        "sites": [],
+        "Position": {
+          "Latitude": 53.373059420762296,
+
+          "Longitude": -6.358281975243705
+        }
+      },
+      {
+        "Mine": "Cloghran",
+        "url": "cloghran-co-dublin.html",
+        "sites": [],
+        "Position": {
+          "Latitude": 53.41214399553784,
+
+          "Longitude": -6.357183344875026
+        }
+      },
+      {
+        "Mine": "Clontarf Mines",
+        "url": "clontarf-co-dublin.html",
+        "sites": [],
+        "Position": {
+          "Latitude": 53.36524077528002,
+
+          "Longitude": -6.2063596525553155
+        }
+      },
+      {
+        "Mine": "Dolphins barn",
+        "url": "dolphinsbarn-co-dublin.html",
+        "sites": [],
+        "Position": {
+          "Latitude": 53.33409513174344,
+
+          "Longitude": -6.291668470945012
+        }
+      },
+      {
+        "Mine": "Dalkey Mines/Mount Mapas/ Killiney/ Decco’s Hole",
+        "url": "dalkey-co-dublin.html",
+        "sites": [],
+        "Position": {
+          "Latitude": 53.26630095481014,
+          "Longitude": -6.1060784517978535,
+          "Exact": 1
+        }
+      },
+      {
+        "Mine": "Howth",
+        "url": "howth-co-dublin.html",
+        "sites": [],
+        "Position": {
+          "Latitude": 53.378204526282815,
+
+          "Longitude": -6.071786047712801
+
+        }
+      },
+      {
+        "Mine": "Loughshinny/Smuggler’s Hole",
+        "url": "loughshinny-co-dublin.html",
+        "sites": [],
+        "Position": {
+          "Latitude": 53.55400144945208,
+
+          "Longitude": -6.080659479253714,
+          "Exact": 1
+
+        }
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "county": "Fermanagh",
+    "Position": {
+      "Latitude": 54.47592417677951,
+
+      "Longitude": -7.571823566971384
+    },
+    "location": [
+      {
+        "Mine": "Belleek – Castle Caldwell iron mines",
+        "url": "belleek-co-fermanagh.html",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.494395942391535,
+
+          "Longitude": -7.970444822202234
+
+        }
+      },
+      {
+        "Mine": "Magheramenagh copper mine",
+        "url": "magheramenagh-co-fermanagh.html",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.481601540724384,
+
+
+
+          "Longitude": -8.034551778450698
+
+        }
+      },
+      {
+        "Mine": "Larkhill china clay mine",
+        "url": "larkhill-co-fermanagh.html",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.50538555178986,
+
+          "Longitude": -7.997014252282129
+
+        },
+        "Links": [
+          {
+            "url": "http://www.belleekpottery.ie/Company-Info/Visitor-Centre/Museum"
+
+          },
+          {
+            "url": "http://www.habitas.org.uk/escr/site.asp?Item=542"
+          }
+        ]
+      },
+      {
+        "Mine": "Garvary Wood feldspar quarry",
+        "url": "scardanrsquos-lower-feldspar-quarry-and-garvary-wood-feldspar-quarry-co-fermanagh.html",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+
+        },
+        "Links": [ { "url": "http://www.habitas.org.uk/escr/site.asp?Item=542" } ]
+      },
+      {
+        "Mine": "Scardans Lower feldspar quarry",
+        "url": "scardanrsquos-lower-feldspar-quarry-and-garvary-wood-feldspar-quarry-co-fermanagh.html",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "county": "​Galway",
+    "Position": {
+      "Latitude": 53.45150673079161,
+
+      "Longitude": -9.419696071830947
+    },
+    "location": [
+      {
+        "Mine": "Ballygally",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.46176700585847,
+
+          "Longitude": -9.382197642924819
+        }
+      },
+      {
+        "Mine": "Ballymaquiff",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.134138508888135,
+
+
+          "Longitude": -8.822301216773464
+        }
+      },
+      {
+        "Mine": "Breenaun",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.536779255020285,
+
+
+          "Longitude": -9.594327906754048
+        }
+      },
+      {
+        "Mine": "Barnagorteeny",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.45362184441841,
+
+
+          "Longitude": -9.392048270204652
+        }
+      },
+      {
+        "Mine": "Barratleva",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.465481576359956,
+
+
+          "Longitude": -9.415886764295623
+        }
+      },
+      {
+        "Mine": "Boolard",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+
+
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Caheenglassaur/Clougheor",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.46176700585847,
+
+          "Longitude": -9.382197642924819
+        }
+      },
+      {
+        "Mine": "Caherglassaun",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.10625585016127,
+
+
+          "Longitude": -8.877497887981928
+        }
+      },
+      {
+        "Mine": "Canrawer",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Claremount",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.23892084860655,
+
+
+          "Longitude": -8.841105544959682
+        }
+      },
+      {
+        "Mine": "Claggan",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.49642454973536,
+
+
+          "Longitude": -9.497375621520396
+        }
+      },
+      {
+        "Mine": "Cregg",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.59419589163799,
+
+
+          "Longitude": -8.361830440746457
+        }
+      },
+      {
+        "Mine": "Derreenagusfor",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+
+
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Dog Bay",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.37918080755181,
+
+          "Longitude": -9.961944740232312
+        }
+      },
+      {
+        "Mine": "Doon",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+
+
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Dooros",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.309960005260955,
+          "Longitude": -9.00883859409826
+        }
+      },
+      {
+        "Mine": "Gorterwulla",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.47137788156591,
+
+
+
+          "Longitude": -9.381186370545946
+        }
+      },
+
+      {
+        "Mine": "Cloncurry",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+
+
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Cloost",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+
+
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Clements",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+
+
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "East Derrynea",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.2956648146061,
+
+
+
+          "Longitude": -9.539681527121868
+        }
+      },
+      {
+        "Mine": "Leenaun",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.59625015444181,
+
+
+
+          "Longitude": -9.693154104371507
+        }
+      },
+      {
+        "Mine": "Maam",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.519522016284945,
+
+
+
+          "Longitude": -9.565847397852577
+        }
+      },
+      {
+        "Mine": "Errisbeg",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.38447218705845,
+
+
+
+          "Longitude": -9.954016522267612
+        }
+      },
+      {
+        "Mine": "Derrylea",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.48340750372469,
+
+
+
+          "Longitude": -9.940682306273867
+        }
+      },
+      {
+        "Mine": "Glan Mines",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [
+          {
+            "minesite": "Curraghduff",
+            "url": ""
+          },
+          {
+            "minesite": "Barnagorteeny",
+            "url": ""
+          },
+          {
+            "minesite": "Dooros",
+            "url": ""
+          },
+          {
+            "minesite": "Leamnaheltia",
+            "url": ""
+          }
+        ],
+        "Position": {
+          "Latitude": 53.418676607900686,
+
+
+
+          "Longitude": -9.374523927861409
+        }
+      },
+      {
+        "Mine": "Glengowla/ Hodgsons",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.41823460995862,
+
+
+
+          "Longitude": -9.374396536506387,
+          "Exact": 1
+        }
+      },
+      {
+        "Mine": "Oughterard",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.42884634705678,
+
+
+
+          "Longitude": -9.319029069798495
+        }
+      },
+      {
+        "Mine": "Renville/ Rinville",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.25176376125929,
+
+
+
+          "Longitude": -8.943343922203635
+        }
+      },
+      {
+        "Mine": "Teernakill",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.513489176457206,
+
+
+
+          "Longitude": -9.584202014481164
+        }
+      },
+      {
+        "Mine": "Truska",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.43758625581131,
+
+
+
+          "Longitude": -10.11724143555515
+        }
+      },
+      {
+        "Mine": "Salthill",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.263000701250604,
+
+
+
+          "Longitude": -9.070629412320676
+        }
+      },
+      {
+        "Mine": "Tynagh",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.15035262479214,
+
+
+
+          "Longitude": -8.37367355353137
+        }
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "county": "​​​​Kerry",
+    "Position": {
+      "Latitude": 52.08681565679686,
+
+      "Longitude": -9.57688202221234
+    },
+    "location": [
+      {
+        "Mine": "Annagh",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Ardtully/ Cloontoo",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 51.899779142923364,
+
+          "Longitude": -9.47393328084133
+        }
+      },
+      {
+        "Mine": "Ballinglanna",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Cahernane",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.04198685446204,
+
+          "Longitude": -9.51122571298019
+        }
+      },
+      {
+        "Mine": "Carrigcrohane/ Coal Mines",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [
+          {
+            "minesite": "Behaghane",
+            "url": ""
+          },
+          {
+            "minesite": "Garrough",
+            "url": ""
+          }
+        ],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Castlemaine",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.16994543732572,
+
+
+          "Longitude": -9.702321836722255
+        }
+      },
+      {
+        "Mine": "Clogher",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Crow Island",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Kenmare",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 51.886463161851985,
+
+          "Longitude": -9.58487528645358
+        }
+      },
+      {
+        "Mine": "Landsdowne Mines",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [
+          {
+            "minesite": "Caher West/ Shanagarry",
+            "url": ""
+          },
+          {
+            "minesite": "Killowen",
+            "url": ""
+          }
+        ],
+        "Position": {
+          "Latitude": 51.895348700870485,
+
+          "Longitude": -9.531585928516101
+        }
+      },
+      {
+        "Mine": "Lissooleen",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.26856927391544,
+
+          "Longitude": -9.61778837750137
+        }
+      },
+      {
+        "Mine": "​Meanus",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.08494670161925,
+
+          "Longitude": -9.749082168388162
+        }
+      },
+      {
+        "Mine": "Muckross",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.01442212539597,
+
+          "Longitude": -9.509749753095301
+        }
+      },
+      {
+        "Mine": "Rath/Caherdaniell",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 51.770883849127024,
+
+          "Longitude": -10.099118270738678
+        }
+      },
+      {
+        "Mine": "Reen /Clashganniv Mine",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.229761541546566,
+
+          "Longitude": -9.314906317215131
+        }
+      },
+      {
+        "Mine": "Ross Island",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.03557890610121,
+
+
+          "Longitude": -9.537459128006796,
+          "Exact": 1
+        }
+      },
+      {
+        "Mine": "Staigue",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 51.80251625919446,
+
+          "Longitude": -10.024120835950256
+        }
+      },
+      {
+        "Mine": "Valentia Slate",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 51.92521586764102,
+
+          "Longitude": -10.342255800629935,
+          "Exact": 1
+        }
+      }
+
+    ]
+  },
+  {
+    "id": 14,
+    "county": "Kildare",
+    "Position": {
+      "Latitude": 53.21696035475808,
+
+      "Longitude": -6.831840235914889
+    },
+    "location": [
+      {
+        "Mine": "Grange Hill Minefield, Cannonstown",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [
+
+        ],
+        "Position": {
+          "Latitude": 53.20363065988414,
+
+          "Longitude": -6.904682056307806
+        }
+      },
+      {
+        "Mine": "Freagh",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [
+
+        ],
+        "Position": {
+          "Latitude": null,
+
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Wheatfield/ Church Mine",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [
+
+        ],
+        "Position": {
+          "Latitude": null,
+
+          "Longitude": null
+        }
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "county": "Kilkenny",
+    "Position": {
+      "Latitude": 52.558908509307344,
+
+      "Longitude": -7.214698574274451
+    },
+    "location": [
+      {
+        "Mine": "Brownsford Forest",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Galmoy",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.80641925279103,
+
+          "Longitude": -7.59395788389383
+        }
+      },
+      {
+        "Mine": "Knockadrina (Flood Hall)",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.51292489578624,
+
+
+
+          "Longitude": -7.22491908087281
+        }
+      },
+      {
+        "Mine": "Castlecomer",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [
+          {
+            "minesite": "Firoda",
+            "url": ""
+          },
+          {
+            "minesite": "Glen",
+            "url": ""
+          },
+          {
+            "minesite": "Coolbaun",
+            "url": ""
+          },
+          {
+            "minesite": "Ballylinnen",
+            "url": ""
+          },
+          {
+            "minesite": "Chancery Glen",
+            "url": ""
+          },
+          {
+            "minesite": "Clogh",
+            "url": ""
+          },
+          {
+            "minesite": "Coorlaghan",
+            "url": ""
+          },
+          {
+            "minesite": "Deerpark",
+            "url": ""
+          },
+          {
+            "minesite": "Glenmullen",
+            "url": ""
+          },
+          {
+            "minesite": "Jarrow",
+            "url": ""
+          },
+          {
+            "minesite": "Skehana",
+            "url": ""
+          },
+          {
+            "minesite": "Vera",
+            "url": ""
+          }
+        ],
+        "Position": {
+          "Latitude": 52.80562863833026,
+
+
+
+
+          "Longitude": -7.204112346850855
+        }
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "county": "Laois",
+    "Position": {
+      "Latitude": 52.999482904269655,
+
+      "Longitude": -7.340841502206145
+    },
+    "location": [
+      {
+        "Mine": "Arless Quarry",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.89359465566293,
+
+          "Longitude": -7.021208401452302
+        }
+      },
+      {
+        "Mine": "Dysert/Dysart",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.02307668422297,
+
+
+          "Longitude": -7.232172727360075
+        }
+      },
+      {
+        "Mine": "Farnan’s Quarry",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+
+
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Fleming’s Fireclay Quarries",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+
+
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Glebe Quarry",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+
+
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Killeany Quarry",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.9256899121305,
+
+
+
+          "Longitude": -7.447153108527201
+        }
+      },
+      {
+        "Mine": "Luggacurren Fireclay Pit",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+
+
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Lisduff Quarry",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.848547505251716,
+
+
+
+          "Longitude": -7.711394227897616
+        }
+      },
+      {
+        "Mine": "Doonane Colliery",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.86690497504526,
+
+
+
+          "Longitude": -7.125598566290626
+        }
+      },
+      {
+        "Mine": "Castlecomer Coal Field (Laois Side)",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+
+
+
+          "Longitude": null
+        }
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "county": "​​​Leitrim",
+    "Position": {
+      "Latitude": 54.1271603474412,
+
+
+
+      "Longitude": -7.992273736887906
+    },
+    "location": [
+      {
+        "Mine": "Bencroy",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.11811271498864,
+
+          "Longitude": -7.922964726397861,
+          "Exact": 1
+        }
+      },
+      {
+        "Mine": "Creevelea/ Gowlaun",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.22985699974926,
+
+
+          "Longitude": -8.31017409902661
+        }
+      },
+      {
+        "Mine": "Gortinee",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.88848644742493,
+
+
+
+          "Longitude": -7.95758270977894
+        }
+      },
+      {
+        "Mine": "Gortnaskeagh",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.29604758509023,
+
+
+
+
+          "Longitude": -8.241411481566189
+        }
+      },
+      {
+        "Mine": "Geoghan’s",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+
+
+
+
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Polboy/ Pollboy",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.30427394509038,
+
+
+
+
+          "Longitude": -8.230336433248592
+        }
+      },
+      {
+        "Mine": "Twigspark",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.314414321797905,
+
+
+
+
+
+          "Longitude": -8.222613920200766
+        }
+      },
+      {
+        "Mine": "Tullynamoyle Iron Mine",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.22488621315084,
+          "Longitude": -8.137993117144896
+        }
+      }
+
+    ]
+  },
+  {
+    "id": 18,
+    "county": "​​Limerick",
+    "Position": {
+      "Latitude": 52.52629462753592,
+
+      "Longitude": -8.775655815217632
+    },
+    "location": [
+      {
+        "Mine": "Ballycanauna/ Ballysteen",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.646799937837166,
+
+          "Longitude": -8.952704640678173
+        }
+      },
+      {
+        "Mine": "Cloghatrida",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.53675143623286,
+
+
+          "Longitude": -8.96835350244453
+        }
+      },
+      {
+        "Mine": "Mahoonagh",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.53675143623286,
+
+
+          "Longitude": -9.010366567645008
+
+        }
+      },
+      {
+        "Mine": "Oola/ Oolahill",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.528411502270565,
+
+
+
+          "Longitude": -8.242224424639131
+
+        }
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "county": "Longford",
+    "Position": {
+      "Latitude": 53.700408778603624,
+
+
+      "Longitude": -7.711055589811865
+    },
+    "location": [
+      {
+        "Mine": "Cleenradh/Cleenrah/Cleenragh",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.86064828145996,
+
+          "Longitude": -7.610529771302884
+        }
+      },
+      {
+        "Mine": "Keel",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+
+          "Longitude": null
+        }
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "county": "Louth",
+    "Position": {
+      "Latitude": 53.88544638614759,
+
+      "Longitude": -6.480246821932873
+    },
+    "location": [
+      {
+        "Mine": "Salterstown",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.86876720147958,
+
+          "Longitude": -6.310955106663451
+        }
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "county": "Mayo",
+    "Position": {
+      "Latitude": 53.87649650358623,
+
+      "Longitude": -9.093243040965518
+    },
+    "location": [
+      {
+        "Mine": "Shroughlaghy/ Srahlaghy",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.23062117047477,
+
+          "Longitude": -9.58056149453123
+        }
+      },
+      {
+        "Mine": "Geevruan/ Horse Island/ Geevraun",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.322258637248666,
+
+
+          "Longitude": -9.563879086914284,
+          "Exact": 1
+        }
+      },
+      {
+        "Mine": "Sheefrey",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "LecanveyLachtmurragha",
+        "url": "",
+        "images": [
+
+        ],
+
+        "sites": [],
+        "Position": {
+          "Latitude": 53.778993291948154,
+
+
+          "Longitude": -9.689249811277744
+        }
+      },
+      {
+        "Mine": "Corraun Mines",
+        "Position": {
+          "Latitude": 53.880612768718116,
+
+
+
+          "Longitude": -9.8737552243241124
+        },
+        "url": "",
+        "images": [
+
+        ],
+
+        "sites": [
+          {
+            "minesite": "Gubnabinniaboy",
+            "url": ""
+          },
+          {
+            "minesite": "Carrignahelty",
+            "url": ""
+          },
+          {
+            "minesite": "Benderg / Bolinaglanna",
+            "url": ""
+          }
+        ]
+
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "county": "​​​Meath",
+    "Position": {
+      "Latitude": 53.65417314868833,
+
+      "Longitude": -6.65857156763996
+    },
+    "location": [
+      {
+        "Mine": "Beauparc/Beaupark",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.68089534045899,
+
+          "Longitude": -6.5729616364481185
+        }
+      },
+      {
+        "Mine": "Brownstown",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.51090856901423,
+
+          "Longitude": -6.482584328369247
+        }
+      },
+      {
+        "Mine": "Drumgill gypsum",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.906819976269794,
+
+          "Longitude": -6.78213439680929
+        }
+      },
+      {
+        "Mine": "Lisnabo / Ballynaclose gypsum",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.88048694349982,
+
+          "Longitude": -6.811196405386823
+        }
+      },
+      {
+        "Mine": "Tara",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.696129240517116,
+
+          "Longitude": -6.713294633566337
+        },
+        "Links": [ { "url": "https://www.boliden.com/operations/mines/boliden-tara" } ]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "county": "Mo​naghan",
+    "Position": {
+      "Latitude": 54.168831764104176,
+
+
+
+      "Longitude": -6.94939220188336
+    },
+    "location": [
+      {
+        "Mine": "Avalreagh",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.191176673015825,
+
+          "Longitude": -6.82957818265823
+        }
+      },
+      {
+        "Mine": "Carrickagarvan",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.09635504075829,
+
+
+          "Longitude": -6.733047268094313
+        }
+      },
+      {
+        "Mine": "Cashel",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.179054233965566,
+
+
+          "Longitude": -6.808717444906578
+        }
+      },
+      {
+        "Mine": "Castleblaney",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.121042191712604,
+
+
+          "Longitude": -6.740235901389132
+        }
+      },
+      {
+        "Mine": "Clare Oghill",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.11737284907655,
+
+
+          "Longitude": -6.806113728652445
+        }
+      },
+      {
+        "Mine": "Clontibret",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [
+
+          {
+            "minesite": "Annaglogh",
+            "url": ""
+          },
+
+          {
+            "minesite": "Carrickaderry",
+            "url": ""
+          },
+          {
+            "minesite": "Coolartragh/Bond",
+            "url": ""
+          },
+          {
+            "minesite": "Lemgare",
+            "url": ""
+          },
+          {
+            "minesite": "Lisdrumgormly",
+            "url": ""
+          },
+          {
+            "minesite": "Tassan",
+            "url": ""
+          },
+          {
+            "minesite": "Tullybuck",
+            "url": ""
+          }
+
+        ],
+        "Position": {
+          "Latitude": 54.18500524502451,
+
+
+
+
+          "Longitude": -6.766553804781229
+        }
+
+      },
+      {
+        "Mine": "Cornamuckloagh South/ Cornamucklagh South",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.123954338217516,
+
+
+
+          "Longitude": -6.846637906369198
+        }
+      },
+      {
+        "Mine": "Croaghan",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.16954061098057,
+
+
+
+
+          "Longitude": -6.780140849747387
+        }
+      },
+      {
+        "Mine": "Derryleedigan Jackson",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.266649277942506,
+          "Longitude": -7.132354208622539
+        }
+      },
+      {
+        "Mine": "Derrylusk",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.255414327670124,
+          "Longitude": -7.1181436768943
+        }
+      },
+      {
+        "Mine": "Drumgoosat / Drumgossat gypsum",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.94051017024598,
+
+          "Longitude": -6.768535653283819
+        }
+      },
+      {
+        "Mine": "Hope Mines",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Knocknacran/ Drummond Mine gypsum",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.94051017024598,
+
+          "Longitude": -6.768535653283819
+        }
+      },
+      {
+        "Mine": "Tamlat",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.27012468258398,
+
+
+          "Longitude": -6.8738821381242925
+        }
+      }
+
+
+    ]
+  },
+
+  {
+    "id": 24,
+    "county": "Offlay",
+    "Position": {
+      "Latitude": 53.25297144720447,
+
+
+      "Longitude": -7.641159976383516
+    },
+    "location": [
+      {
+        "Mine": "Edenderry/ Blundell",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.32851705806423,
+
+          "Longitude": -7.03624865343873
+        }
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "county": "Roscommon",
+
+    "Position": {
+      "Latitude": 53.71903804911366,
+
+
+
+      "Longitude": -8.254780215976632
+    },
+    "location": [
+      {
+        "Mine": "Arigna Mines",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [
+
+          {
+            "minesite": "Altagowlan",
+            "url": ""
+          },
+          {
+            "minesite": "Derreenavoggy",
+            "url": ""
+          },
+          {
+            "minesite": "Gubbarudda",
+            "url": ""
+          },
+          {
+            "minesite": "Rock Hill",
+            "url": ""
+          }
+        ],
+        "Position": {
+          "Latitude": 54.07852646277289,
+
+          "Longitude": -8.120978545274163,
+          "Exact": 1
+        },
+        "Links": [
+
+          { "url": "https://www.arignaminingexperience.ie/" }
+
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "county": "Sligo",
+    "Position": {
+      "Latitude": 54.161259049402695,
+
+      "Longitude": -8.630811899428837
+    },
+    "location": [
+      {
+        "Mine": "Ben Bulben/Kings Mountain",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [
+          {
+            "minesite": "Gleniff",
+            "url": ""
+          },
+          {
+            "minesite": "Glencarbury",
+            "url": ""
+          },
+          {
+            "minesite": "Tormore",
+            "url": ""
+          }
+        ],
+        "Position": {
+          "Latitude": 54.355217779098645,
+
+          "Longitude": -8.412833946502664,
+          "Exact": 1
+        }
+      },
+      {
+        "Mine": "Abbeytown",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.98760747764892,
+
+          "Longitude": -8.463884595147062
+        }
+      },
+      {
+        "Mine": "​Lugawarry",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.19943195439276,
+
+
+          "Longitude": -8.570635995992207
+        }
+      },
+      {
+        "Mine": "​Geevagh",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.09916129638231,
+
+
+
+          "Longitude": -8.250209592535441
+        }
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "county": "​​​Tipperary",
+    "Position": {
+      "Latitude": 52.482137750714855,
+
+      "Longitude": -7.811002164844924
+    },
+    "location": [
+      {
+        "Mine": "Gortdrum",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.52344659220781,
+
+          "Longitude": -8.187687497174094
+        }
+      },
+      {
+        "Mine": "Hollyford Mines/ Holyford",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.633802043677015,
+
+          "Longitude": -8.111163323847585
+        }
+      },
+      {
+        "Mine": "Lackamore Mines",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [
+          {
+            "minesite": "Lackamore",
+            "url": ""
+          },
+          {
+            "minesite": "Tooreenbrien",
+            "url": ""
+          }
+        ],
+        "Position": {
+          "Latitude": 52.69856506849352,
+
+          "Longitude": -8.292363716365799
+        }
+      },
+      {
+        "Mine": "Lisheen",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.75970050793938,
+
+
+          "Longitude": -7.709303096608479
+        }
+      },
+      {
+        "Mine": "Slieve Ardagh Coalfield",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.64485453237792,
+
+
+
+          "Longitude": -7.531673659212814
+        }
+      },
+      {
+        "Mine": "Rathnaveoge",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.899213311835496,
+
+
+
+
+          "Longitude": -7.878848675778223
+        }
+      },
+      {
+        "Mine": "Silvermines",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [
+          {
+            "minesite": "General",
+            "url": ""
+          },
+          {
+            "minesite": "Ballygown/ Ballygowan",
+            "url": ""
+          },
+          {
+            "minesite": "Ballynoe/Gortshaneroe",
+            "url": ""
+          },
+          {
+            "minesite": "Cloonanagh",
+            "url": ""
+          },
+          {
+            "minesite": "Cooleen",
+            "url": ""
+          },
+          {
+            "minesite": "Coolruntha",
+            "url": ""
+          },
+          {
+            "minesite": "Garryard East",
+            "url": ""
+          },
+          {
+            "minesite": "Garryard West",
+            "url": ""
+          },
+          {
+            "minesite": "Gorteenadiha/ Gurtnadyne",
+            "url": ""
+          },
+          {
+            "minesite": "Knockanroe",
+            "url": ""
+          },
+          {
+            "minesite": "Shallee",
+            "url": ""
+          }
+        ],
+        "Position": {
+          "Latitude": 52.79086544921366,
+
+
+
+
+
+          "Longitude": -8.23661073270758,
+          "Exact": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "county": "​​​Tyrone",
+    "Position": {
+      "Latitude": 54.60809144314907,
+
+
+
+      "Longitude": -7.096317471463292
+    },
+    "location": [
+      {
+        "Mine": "Annagher Dalradian Curraghinalt",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.7176146937407,
+
+          "Longitude": -7.232451856705364
+        }
+      },
+      {
+        "Mine": "Cavanacaw / Omagh Mine",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.583862766113114,
+
+          "Longitude": -7.382597182168841
+        }
+      },
+      {
+        "Mine": "Strabane",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 54.82728974488122,
+
+          "Longitude": -7.4608747116855945
+        }
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "county": "​​Waterford",
+    "Position": {
+      "Latitude": 52.24105428669484,
+
+
+      "Longitude": -7.548566270970974
+    },
+    "location": [
+      {
+        "Mine": "Ballymacarbery",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.26736857180418,
+
+          "Longitude": -7.7176075507920014
+        }
+      },
+      {
+        "Mine": "Bunmahon",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.14078658213171,
+
+          "Longitude": -7.3652041958426695
+
+        }
+      },
+      {
+        "Mine": "​Drumslig/ Slieve Grian",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.03214220134384,
+
+          "Longitude": -7.716160080225369
+        }
+      },
+      {
+        "Mine": "Killeton/ Lady’s Cove",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.1535947378959,
+          "Longitude": -6.994854127310997
+
+        }
+      },
+      {
+        "Mine": "Kilminnin",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.140712326936416,
+
+          "Longitude": -7.488363926507987
+        }
+      },
+      {
+        "Mine": "Knockmahon Mines",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.141257169961584,
+
+          "Longitude": -7.352340353750775
+        }
+      },
+      {
+        "Mine": "Tankardstown",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.13926919881811,
+
+          "Longitude": -7.343457380906069,
+          "Exact": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "county": "​​Westmeath",
+    "Position": {
+      "Latitude": 53.61002956828663,
+
+      "Longitude": -7.337513440456526
+    },
+    "location": [
+      {
+        "Mine": "Knockeyon",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.62351023503766,
+
+          "Longitude": -7.296818655840623
+        }
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "county": "Wexford",
+    "Position": {
+      "Latitude": 52.5205825082842,
+      "Longitude": -6.516133480147578
+    },
+    "location": [
+      {
+        "Mine": "Barristown/ Barrystown/ Clonmines",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+
+        "Position": {
+          "Latitude": 52.25315362150301,
+          "Longitude": -6.747961935689684
+        }
+      },
+      {
+        "Mine": "Caime/ Caim",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+
+        "Position": {
+
+          "Latitude": 52.5082167627943,
+          "Longitude": -6.680790320280146
+        }
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "county": "Wicklow",
+    "Position": {
+      "Latitude": 53.046182517249534,
+
+      "Longitude": -6.3409432924759335
+    },
+    "location": [
+      {
+        "Mine": "Aughrim",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.9,
+
+
+          "Longitude": -6.38
+        }
+      },
+      {
+        "Mine": "Avoca",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [
+          {
+            "minesite": "East Avoca",
+            "url": ""
+          },
+          {
+            "minesite": "Connarree/ Connary",
+            "url": ""
+          },
+          {
+            "minesite": "Cronebane",
+            "url": ""
+          },
+          {
+            "minesite": "Tigroney",
+            "url": "tigroney-co-wicklow.html"
+          },
+          {
+            "minesite": "West Avoca",
+            "url": ""
+          },
+          {
+            "minesite": "Ballygahan",
+            "url": ""
+          },
+          {
+            "minesite": "Ballymurtagh",
+            "url": ""
+          }
+        ],
+        "Position": {
+          "Latitude": 52.87596911052681,
+
+          "Longitude": -6.216878476229832,
+          "Exact": 1
+        }
+      },
+      {
+        "Mine": "Ballinalea",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.00354678261661,
+
+          "Longitude": -6.109996549939494
+        }
+      },
+      {
+        "Mine": "Ballintemple",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.83255296214725,
+
+          "Longitude": -6.264346387048109
+        }
+      },
+      {
+        "Mine": "Ballycoog",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.83046720234936,
+
+          "Longitude": -6.271403733203772
+        }
+      },
+      {
+        "Mine": "Ballyknockan",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+
+        "Position": {
+          "Latitude": 53.101280227720444,
+
+          "Longitude": -6.498419169472573
+
+        }
+
+      },
+      {
+        "Mine": "Ballyrahan",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.77931758000676,
+
+          "Longitude": -6.500192729992774
+        }
+      },
+      {
+        "Mine": "Ballymoneen",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.856474325295295,
+          "Longitude": -6.246786328809852
+        }
+      },
+      {
+        "Mine": "Carysfort Royalty",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Cloghleagh/ Cloughlea",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      },
+      {
+        "Mine": "Glendalough",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [
+          {
+            "minesite": "Glendalough",
+            "url": ""
+          },
+          {
+            "minesite": "Van Dieman’s Mine",
+            "url": ""
+          }
+
+        ],
+        "Position": {
+          "Latitude": 53.006931605378966,
+
+          "Longitude": -6.345914547635538,
+          "Exact": 1
+        }
+      },
+      {
+        "Mine": "Glenmalure",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [
+          {
+            "minesite": "Ballinafunshoge",
+            "url": ""
+          },
+          {
+            "minesite": "Ballinagoneen/Ballygoneen",
+            "url": ""
+          },
+          {
+            "minesite": "Baravore",
+            "url": ""
+          },
+          {
+            "minesite": "Camenabologue",
+            "url": ""
+          },
+          {
+            "minesite": "Clonkeen",
+            "url": ""
+          },
+          {
+            "minesite": "Corrasillagh",
+            "url": ""
+          },
+          {
+            "minesite": "Cullentragh Park",
+            "url": ""
+          }
+
+        ],
+        "Position": {
+          "Latitude": 52.95797780338049,
+
+          "Longitude": -6.354412885043323,
+          "Exact": 1
+        }
+      },
+      {
+        "Mine": "Hollywood Mine",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.09243586916006,
+
+          "Longitude": -6.598838138947072
+
+        }
+      },
+      {
+        "Mine": "Knocknamohil",
+        "url": "",
+        "images": [
+
+        ],
+        "sites": [],
+        "Position": {
+          "Latitude": 52.848346773093176,
+
+          "Longitude": -6.260624691811765
+        }
+      },
+      {
+        "Mine": "Lough Dan",
+        "url": "",
+        "images": [],
+        "sites": [],
+        "Position": {
+          "Latitude": 53.0767749504699,
+
+          "Longitude": -6.298806894495691
+        }
+      },
+      {
+        "Mine": "Laragh Quarry",
+        "url": "",
+        "images": [],
+        "sites": [],
+        "Position": {
+          "Latitude": null,
+          "Longitude": null
+        }
+      }
+    ]
+  }
+]
