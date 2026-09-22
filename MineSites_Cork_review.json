@@ -1,0 +1,192 @@
+[
+  {
+    "id": 6,
+    "county": "Cork",
+    "Position": { "Latitude": 51.75, "Longitude": -9.1 },
+    "Data": {
+      "status": "review",
+      "source": "Recovered Irish Mines directory and OpenStreetMap Nominatim",
+      "note": "Principal-area coordinates marked candidate-locality are locality centres and must be verified before being treated as precise mine positions. Associated workings are preserved under sites."
+    },
+    "location": [
+      {
+        "Mine": "Bearhaven Mines/Allihies Mines",
+        "url": "",
+        "sites": [
+          { "minesite": "Mountain Mine", "url": "" },
+          { "minesite": "Cahermeeleboe", "url": "" },
+          { "minesite": "Caminches", "url": "" },
+          { "minesite": "Cloan", "url": "" },
+          { "minesite": "Coom", "url": "" },
+          { "minesite": "Dooneen", "url": "" },
+          { "minesite": "Kealoge", "url": "" },
+          { "minesite": "Urhin", "url": "" },
+          { "minesite": "Kilkinnikin West", "url": "" }
+        ],
+        "Position": { "Latitude": 51.6413687, "Longitude": -10.0444403 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Allihies" }
+      },
+      {
+        "Mine": "Ballydehob Mines",
+        "url": "",
+        "sites": [
+          { "minesite": "Dereenalomane", "url": "" },
+          { "minesite": "Croppie White Mine", "url": "" },
+          { "minesite": "White Mine", "url": "" }
+        ],
+        "Position": { "Latitude": 51.5621926, "Longitude": -9.4607391 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Ballydehob" }
+      },
+      {
+        "Mine": "Audley Mines",
+        "url": "",
+        "sites": [
+          { "minesite": "Ballycummisk", "url": "ballycummisk-co-cork.html" },
+          { "minesite": "Foilnamuck", "url": "foilnamuck-co-cork.html" },
+          { "minesite": "Rossbrin", "url": "rossbrin-co-cork.html" },
+          { "minesite": "Horse Island", "url": "horse-island-co-cork.html" },
+          { "minesite": "Cappagh/Cappaghglass", "url": "cappaghlass-co-cork.html" },
+          { "minesite": "Boleagh", "url": "" },
+          { "minesite": "Cooragurteen", "url": "" },
+          { "minesite": "Derrycarhoon", "url": "" },
+          { "minesite": "Kilcoe", "url": "" },
+          { "minesite": "Roaring Water", "url": "" },
+          { "minesite": "Skeaghanore", "url": "" },
+          { "minesite": "Shronagree", "url": "" }
+        ],
+        "Position": { "Latitude": null, "Longitude": null },
+        "Data": { "coordinateStatus": "not-found", "note": "Search results referred to Cork city addresses rather than the historic West Cork mining area." }
+      },
+      {
+        "Mine": "Crookhaven Mines",
+        "url": "",
+        "sites": [
+          { "minesite": "Boulsallagh (West Carbery)/ Boulysallagh", "url": "" },
+          { "minesite": "Callaros", "url": "" },
+          { "minesite": "Cloghane (Mizen Head)", "url": "" },
+          { "minesite": "Crookhaven", "url": "" },
+          { "minesite": "Kilbarry", "url": "" },
+          { "minesite": "Spanish Cove (Kilmoe)", "url": "" },
+          { "minesite": "Mallavogue (Brow Head)", "url": "" },
+          { "minesite": "Mizen Head", "url": "" },
+          { "minesite": "Brow Head", "url": "" }
+        ],
+        "Position": { "Latitude": 51.4684326, "Longitude": -9.7256677 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Crookhaven" }
+      },
+      {
+        "Mine": "Coosheen/ Schull Bay Mines",
+        "url": "",
+        "sites": [
+          { "minesite": "Castle Island", "url": "" },
+          { "minesite": "Coosheen", "url": "" },
+          { "minesite": "Coney Island", "url": "" },
+          { "minesite": "Long Island", "url": "" },
+          { "minesite": "Gortnamona", "url": "" },
+          { "minesite": "Letter", "url": "" },
+          { "minesite": "Mount Gabriel", "url": "" }
+        ],
+        "Position": { "Latitude": null, "Longitude": null },
+        "Data": { "coordinateStatus": "not-found" }
+      },
+      {
+        "Mine": "Rosscarbery Slate Quarries",
+        "url": "",
+        "sites": [
+          { "minesite": "Benduff", "url": "" },
+          { "minesite": "Cooladreen", "url": "" },
+          { "minesite": "Froe", "url": "" },
+          { "minesite": "Madranna/Modrana", "url": "" }
+        ],
+        "Position": { "Latitude": 51.5775144, "Longitude": -9.0329284 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Rosscarbery" }
+      },
+      {
+        "Mine": "Glandore/ Aghatubrid/ Maulagow Goleen Mines",
+        "url": "",
+        "sites": [
+          { "minesite": "Balteen", "url": "" },
+          { "minesite": "Carrigacat/ Dhurode", "url": "" },
+          { "minesite": "Boulysallagh", "url": "" },
+          { "minesite": "Lackavaun", "url": "" },
+          { "minesite": "Dunmanus West", "url": "" },
+          { "minesite": "Spanish Cove", "url": "" },
+          { "minesite": "Callaros", "url": "" }
+        ],
+        "Position": { "Latitude": 51.4950346, "Longitude": -9.7112645 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Goleen" }
+      },
+      {
+        "Mine": "Hollyhill Mines",
+        "url": "",
+        "sites": [
+          { "minesite": "Gortacloona", "url": "" },
+          { "minesite": "Hollyhill", "url": "" }
+        ],
+        "Position": { "Latitude": null, "Longitude": null },
+        "Data": {
+          "coordinateStatus": "ambiguous",
+          "candidates": [
+            { "name": "Hollyhill, Cork city", "Latitude": 51.9032254, "Longitude": -8.5114064 },
+            { "name": "Hollyhill, Kinsale Rural", "Latitude": 51.7050789, "Longitude": -8.5915567 }
+          ]
+        }
+      },
+      {
+        "Mine": "Lackue Mines",
+        "url": "",
+        "sites": [
+          { "minesite": "Coom", "url": "" },
+          { "minesite": "Inchadreen", "url": "" }
+        ],
+        "Position": { "Latitude": null, "Longitude": null },
+        "Data": { "coordinateStatus": "not-found" }
+      },
+      {
+        "Mine": "Lady’s Well Mine, Duneen",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": 51.5786916, "Longitude": -8.8800273 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Duneen, Ardfield ED" }
+      },
+      {
+        "Mine": "Duhalla Coalfield",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": null, "Longitude": null },
+        "Data": { "coordinateStatus": "not-found", "note": "Returned Duhallow results did not identify the historic coalfield." }
+      },
+      {
+        "Mine": "Ringabella",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": 51.7635045, "Longitude": -8.3091074 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Ringabella" }
+      },
+      {
+        "Mine": "Sheep’s Head Mines",
+        "url": "",
+        "sites": [
+          { "minesite": "Gortavallig", "url": "" },
+          { "minesite": "Caravilleen", "url": "" },
+          { "minesite": "Glanalin/ Glan/ Gloun", "url": "" },
+          { "minesite": "Glanroon/ Killeen/ Kilcrohan/ Glenruin", "url": "" },
+          { "minesite": "Keleenavenogue/ Kiloveenoge", "url": "" },
+          { "minesite": "Lisamerig/ Lissareemig", "url": "" },
+          { "minesite": "Rooska/ Roosca/ Bantry Bay Silver-Lead Mines", "url": "" }
+        ],
+        "Position": { "Latitude": 51.5408922, "Longitude": -9.8516149 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Sheep’s Head" }
+      },
+      {
+        "Mine": "Skibbereen Mines",
+        "url": "",
+        "sites": [
+          { "minesite": "Bawnishall", "url": "" }
+        ],
+        "Position": { "Latitude": 51.5478232, "Longitude": -9.2662109 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Skibbereen" }
+      }
+    ]
+  }
+]
