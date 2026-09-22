@@ -346,6 +346,35 @@ img[src*="fb-flogo-blue-broadcast-2.png"] {
  line-height: 1.75 !important;
 }
 
+.wsite-page-irish-mines .back-to-top {
+ position: fixed;
+ right: 22px;
+ bottom: 22px;
+ z-index: 20;
+ display: inline-flex;
+ align-items: center;
+ gap: 7px;
+ padding: 10px 14px;
+ background: rgba(66, 81, 76, .94);
+ border-radius: 4px;
+ box-shadow: 0 2px 8px rgba(0, 0, 0, .18);
+ color: #fff !important;
+ font-size: 13px;
+ line-height: 1;
+ text-decoration: none;
+}
+
+.wsite-page-irish-mines .back-to-top:hover,
+.wsite-page-irish-mines .back-to-top:focus {
+ background: #508d24;
+ color: #fff !important;
+}
+
+.wsite-page-irish-mines .back-to-top span {
+ font-size: 18px;
+ line-height: .8;
+}
+
 @media screen and (max-width: 767px) {
  .wsite-page-irish-mines .mine-county-index {
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -379,5 +408,21 @@ img[src*="fb-flogo-blue-broadcast-2.png"] {
   padding: 8px 12px !important;
   border-top: 0;
   border-bottom: 1px solid #e6eae4;
+ }
+
+ .wsite-page-irish-mines .back-to-top {
+  right: 12px;
+  bottom: 12px;
+  width: 42px;
+  height: 42px;
+  box-sizing: border-box;
+  justify-content: center;
+  padding: 0;
+  border-radius: 50%;
+  font-size: 0;
+ }
+
+ .wsite-page-irish-mines .back-to-top span {
+  font-size: 22px;
  }
 }
