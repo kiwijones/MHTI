@@ -1,0 +1,56 @@
+[
+  {
+    "id": 4,
+    "county": "Cavan",
+    "Position": { "Latitude": 54.0, "Longitude": -7.35 },
+    "Data": {
+      "status": "review",
+      "source": "Recovered Irish Mines directory and OpenStreetMap Nominatim",
+      "note": "Coordinates marked candidate-locality or candidate-landmark are provisional area positions and must not be treated as precise mine entrances."
+    },
+    "location": [
+      {
+        "Mine": "Cornanurney/ Wheal Burrowes, Cootehill",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": 54.0266343, "Longitude": -7.0904595 },
+        "Data": { "coordinateStatus": "candidate-landmark", "matchedName": "Cornanurney peak" }
+      },
+      {
+        "Mine": "Cuilcagh District, Swanlinbar",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": 54.194722, "Longitude": -7.704444 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Swanlinbar" }
+      },
+      {
+        "Mine": "Kill / Kilnaleck coal",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": 53.8612489, "Longitude": -7.3201437 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Kilnaleck village" }
+      },
+      {
+        "Mine": "Kingscourt Cabra Castle and Corney Gypsum",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": 53.905018, "Longitude": -6.8046741 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Kingscourt" }
+      },
+      {
+        "Mine": "Monesk / Gubaveeny in Connaught Coalfield",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": 54.2429271, "Longitude": -7.9935335 },
+        "Data": { "coordinateStatus": "candidate-landmark", "matchedName": "Gubaveeny peak" }
+      },
+      {
+        "Mine": "Redhills iron mine",
+        "url": "",
+        "sites": [],
+        "Position": { "Latitude": 54.1003515, "Longitude": -7.3200054 },
+        "Data": { "coordinateStatus": "candidate-locality", "matchedName": "Redhills" }
+      }
+    ]
+  }
+]
