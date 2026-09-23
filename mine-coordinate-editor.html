@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mine Coordinate Editor - MHTI</title>
+  <meta name="robots" content="noindex,nofollow">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Gentium+Basic:400,700|Playfair+Display:400,700|Montserrat:400,700&subset=latin,latin-ext">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+  <link rel="stylesheet" href="files/coordinate-editor.css">
+</head>
+<body>
+  <header class="editor-header">
+    <a class="editor-brand" href="index.html">MHTI</a>
+    <nav aria-label="Editor navigation">
+      <a href="irish-mines-map.html">Public map</a>
+      <a href="irish-mines.html">Mine directory</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="editor-intro">
+      <p class="eyebrow">Local maintenance tool</p>
+      <h1>Mine Coordinate Editor</h1>
+      <p>Choose a mine, click the map or drag the marker, then apply the verified coordinates. When finished, download the complete updated dataset.</p>
+      <div class="editor-warning"><strong>This page cannot alter the live site.</strong> It edits a copy in this browser until you download the JSON file and publish it.</div>
+    </section>
+
+    <section class="editor-controls" aria-label="Select a mine">
+      <label>
+        <span>County</span>
+        <select id="editor-county"></select>
+      </label>
+      <label>
+        <span>Mine or mining area</span>
+        <select id="editor-mine"></select>
+      </label>
+      <button id="next-unmapped" type="button">Next unmapped</button>
+    </section>
+
+    <section class="editor-workspace">
+      <div id="coordinate-map" aria-label="Map for selecting mine coordinates"></div>
+      <aside class="coordinate-panel">
+        <div>
+          <p class="panel-label">Selected record</p>
+          <h2 id="selected-name">Loading…</h2>
+          <p id="selected-county" class="selected-county"></p>
+        </div>
+
+        <div id="coordinate-state" class="coordinate-state"></div>
+
+        <div class="coordinate-fields">
+          <label>
+            <span>Latitude</span>
+            <input id="editor-latitude" type="number" min="50" max="56.5" step="0.0000001" inputmode="decimal">
+          </label>
+          <label>
+            <span>Longitude</span>
+            <input id="editor-longitude" type="number" min="-11.5" max="-5" step="0.0000001" inputmode="decimal">
+          </label>
+        </div>
+
+        <p class="coordinate-help">Click anywhere on the map or drag the green marker. Coordinates must fall within the island of Ireland.</p>
+
+        <div class="panel-actions">
+          <button id="apply-coordinates" class="primary" type="button">Apply verified coordinates</button>
+          <button id="revert-record" type="button">Revert this record</button>
+          <button id="clear-coordinates" class="danger" type="button">Mark as unmapped</button>
+        </div>
+
+        <div class="associated-sites">
+          <h3>Associated workings</h3>
+          <ul id="associated-sites-list"></ul>
+        </div>
+      </aside>
+    </section>
+
+    <section class="export-panel">
+      <div>
+        <strong id="change-count">No changes applied</strong>
+        <span id="editor-status" role="status" aria-live="polite">Select a record to begin.</span>
+      </div>
+      <button id="download-json" type="button" disabled>Download updated JSON</button>
+    </section>
+  </main>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="files/coordinate-editor.js"></script>
+</body>
+</html>
