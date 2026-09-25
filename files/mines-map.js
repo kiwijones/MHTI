@@ -57,7 +57,8 @@
       const county = cleanCounty(countyEntry.county);
       (countyEntry.location || []).forEach(function (mine, index) {
         const name = cleanText(mine.Mine) || 'Unnamed mine';
-        const siteNames = (mine.sites || []).map(function (site) {
+        const sites = mine.sites || [];
+        const siteNames = sites.map(function (site) {
           return cleanText(site.minesite || site.Mine || site.name);
         }).filter(Boolean);
         flattened.push({
@@ -72,6 +73,24 @@
           marker: null,
           searchText: cleanText([name, county].concat(siteNames).join(' ')).toLocaleLowerCase()
         });
+        sites.forEach(function (site, siteIndex) {
+          if (!Object.prototype.hasOwnProperty.call(site, 'Position')) return;
+          const siteName = cleanText(site.minesite || site.Mine || site.name) || 'Unnamed working';
+          flattened.push({
+            id: county + '-' + index + '-site-' + siteIndex + '-' + siteName,
+            name: siteName,
+            parentName: name,
+            associated: true,
+            county: county,
+            url: safeLocalUrl(site.url),
+            sites: [],
+            mapped: validPosition(site.Position),
+            lat: Number(site.Position && site.Position.Latitude),
+            lng: Number(site.Position && site.Position.Longitude),
+            marker: null,
+            searchText: cleanText([siteName, name, county].join(' ')).toLocaleLowerCase()
+          });
+        });
       });
     });
     return flattened.sort(function (a, b) {
@@ -85,6 +104,11 @@
     const heading = document.createElement('h3');
     heading.textContent = record.name;
     wrapper.appendChild(heading);
+    if (record.associated) {
+      const parent = document.createElement('p');
+      parent.textContent = 'Associated working of ' + record.parentName;
+      wrapper.appendChild(parent);
+    }
     const county = document.createElement('p');
     county.textContent = 'County ' + record.county;
     wrapper.appendChild(county);
@@ -114,7 +138,7 @@
       radius: 7,
       weight: 2,
       color: '#ffffff',
-      fillColor: '#508d24',
+      fillColor: record.associated ? '#b56a2d' : '#508d24',
       fillOpacity: 0.9
     });
     marker.bindPopup(buildPopup(record), { maxWidth: 290 });
@@ -133,7 +157,7 @@
     const meta = document.createElement('span');
     meta.className = 'mine-meta';
     const county = document.createElement('span');
-    county.textContent = record.county;
+    county.textContent = record.associated ? record.county + ' · associated working' : record.county;
     const mapState = document.createElement('span');
     mapState.textContent = record.mapped ? 'View on map' : 'Not yet mapped';
     if (!record.mapped) mapState.className = 'unmapped';
@@ -143,7 +167,14 @@
     button.appendChild(meta);
     button.addEventListener('click', function () {
       if (record.mapped && record.marker) {
-        map.setView([record.lat, record.lng], 13);
+        const parent = record.associated && records.find(function (candidate) {
+          return !candidate.associated && candidate.county === record.county && candidate.name === record.parentName;
+        });
+        if (parent && parent.mapped) {
+          map.fitBounds([[record.lat, record.lng], [parent.lat, parent.lng]], { padding: [55, 55], maxZoom: 14 });
+        } else {
+          map.setView([record.lat, record.lng], 13);
+        }
         record.marker.openPopup();
         document.getElementById('mines-map').scrollIntoView({ behavior: 'smooth', block: 'center' });
       }
@@ -161,6 +192,20 @@
 
     markerLayer.clearLayers();
     const mappedVisible = visibleRecords.filter(function (record) { return record.mapped; });
+    mappedVisible.filter(function (record) { return record.associated; }).forEach(function (record) {
+      const parent = mappedVisible.find(function (candidate) {
+        return !candidate.associated && candidate.county === record.county && candidate.name === record.parentName;
+      });
+      if (parent) {
+        markerLayer.addLayer(L.polyline([[parent.lat, parent.lng], [record.lat, record.lng]], {
+          color: '#8a715d',
+          weight: 2,
+          opacity: 0.7,
+          dashArray: '5 6',
+          interactive: false
+        }));
+      }
+    });
     mappedVisible.forEach(function (record) { markerLayer.addLayer(record.marker || makeMarker(record)); });
 
     results.replaceChildren();

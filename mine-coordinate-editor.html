@@ -22,8 +22,8 @@
     <section class="editor-intro">
       <p class="eyebrow">Local maintenance tool</p>
       <h1>Mine Coordinate Editor</h1>
-      <p>Choose a mine, click the map or drag the marker, then apply the verified coordinates. When finished, download the complete updated dataset.</p>
-      <div class="editor-warning"><strong>This page cannot alter the live site.</strong> It edits a copy in this browser until you download the JSON file and publish it.</div>
+      <p>Choose a mine and the exact location to position, click the map or drag the marker, then apply the verified coordinates.</p>
+      <div class="editor-warning"><strong>This page cannot alter the live site.</strong> It edits a copy in this browser. On a supported local browser, save directly over the primary JSON file; otherwise download it and replace the file manually.</div>
     </section>
 
     <section class="editor-controls" aria-label="Select a mine">
@@ -35,7 +35,64 @@
         <span>Mine or mining area</span>
         <select id="editor-mine"></select>
       </label>
+      <label>
+        <span>Location to position</span>
+        <select id="editor-target"></select>
+      </label>
       <button id="next-unmapped" type="button">Next unmapped</button>
+    </section>
+
+    <details class="record-manager">
+      <summary>Manage records</summary>
+      <div class="record-manager-grid">
+        <form id="add-record-form" class="record-form">
+          <h2>Add missing data</h2>
+          <label>
+            <span>Record type</span>
+            <select id="add-record-type">
+              <option value="mine">New mine or mining area</option>
+              <option value="site">Associated working under selected mine</option>
+            </select>
+          </label>
+          <label>
+            <span>Name</span>
+            <input id="add-record-name" type="text" required autocomplete="off">
+          </label>
+          <label>
+            <span>Details page URL (optional)</span>
+            <input id="add-record-url" type="text" placeholder="example-co-county.html" autocomplete="off">
+          </label>
+          <button class="primary" type="submit">Add to working copy</button>
+        </form>
+
+        <form id="edit-record-form" class="record-form">
+          <h2>Edit selected record</h2>
+          <label>
+            <span>Name</span>
+            <input id="edit-record-name" type="text" required autocomplete="off">
+          </label>
+          <label>
+            <span>Details page URL (optional)</span>
+            <input id="edit-record-url" type="text" autocomplete="off">
+          </label>
+          <div class="record-form-actions">
+            <button type="submit">Update selected record</button>
+            <button id="remove-record" class="danger" type="button">Remove from working copy</button>
+          </div>
+        </form>
+      </div>
+      <p class="record-manager-note">Additions, edits and removals remain in this browser until you save the primary dataset or download a copy.</p>
+    </details>
+
+    <section class="place-search" aria-label="Find a place on the map">
+      <form id="place-search-form">
+        <label for="place-search-input">Find a town, townland or landmark</label>
+        <div class="place-search-row">
+          <input id="place-search-input" type="search" autocomplete="off" placeholder="For example: Allihies, County Cork">
+          <button id="place-search-button" type="submit">Search map</button>
+        </div>
+      </form>
+      <div id="place-search-results" class="place-search-results" aria-live="polite"></div>
     </section>
 
     <section class="editor-workspace">
@@ -80,7 +137,10 @@
         <strong id="change-count">No changes applied</strong>
         <span id="editor-status" role="status" aria-live="polite">Select a record to begin.</span>
       </div>
-      <button id="download-json" type="button" disabled>Download updated JSON</button>
+      <div class="export-actions">
+        <button id="save-primary-json" class="primary" type="button" disabled>Save primary dataset</button>
+        <button id="download-json" type="button" disabled>Download a copy</button>
+      </div>
     </section>
   </main>
 
